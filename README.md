@@ -1,10 +1,12 @@
-#CS320Assignment1
+CS320Assignment1
+====== 
+
 __Name__ : Antoine Rakotozafy  
 **Email** : antoine.rakotozafy@gmail.com
 
-___
 
-###Prog1_1  
+Prog1_1  
+-----
 
 This program allow the computer to tell us what's our name. I store the name in a variable because we need it two times (in the title and for the sentence display).
 
@@ -14,10 +16,8 @@ This program allow the computer to tell us what's our name. I store the name in 
 **To run it :**
 `./prog1_1`
 
-
-___
-
-###Prog1_2
+Prog1_2
+-----  
 
 This program allow the computer to ask us, what's our first name. Then open a input field where we can answer. And then he tell us :
 > Hello **firstName**. Nice to meet you !
@@ -28,9 +28,9 @@ This program allow the computer to ask us, what's our first name. Then open a in
 **To run it :**
 `./prog1_2`
 
-___
 
-###Prog1_3
+Prog1_3
+-----  
 
 This program allow to calculate the hyperbolic cosine of an angle in degrees.
 
@@ -41,9 +41,10 @@ I add the option -lm to compile it with math library.
 **To run it :**
 `./prog1_3`
 
-___
 
-###Prog1_4
+Prog1_4
+-----  
+
 
 This program allow us to have the value of a cosine wave with two command line arguments (number of elements and step size in degree).  
 
