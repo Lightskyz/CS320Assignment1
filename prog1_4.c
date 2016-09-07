@@ -5,10 +5,11 @@
 //Include library to allow math functions, here cos
 #include <math.h>
 
-//2 parameters in the main
+//argc is the number of arguments and argv contains pointers to the arguments
 int main(int argc, char const *argv[]) {
 
-  //Conditions that we must have 2 arguments before executing the code
+  //We put 3 arguments because the program name count as the first argument.
+  //So it's the condition if we put 2 arguments in input for executing the code.
   if( argc == 3 ) {
 
       //Variables of my name and email

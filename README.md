@@ -1,5 +1,5 @@
 CS320Assignment1
-====== 
+======
 
 __Name__ : Antoine Rakotozafy  
 **Email** : antoine.rakotozafy@gmail.com
@@ -59,5 +59,6 @@ I add the option -lm to compile it with math library.
 `./prog1_4 X Y`  
 
 * With **X**, the first argument which is : number of elements to produce  
-* And **Y**, the seconde argument which is : 
-the step size in degrees
+* And **Y**, the seconde argument which is : the step size in degrees  
+
+If you put less or more arguments than 2, error messages will display.
